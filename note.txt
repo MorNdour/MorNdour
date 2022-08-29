@@ -36,3 +36,4 @@ afficher toutes les branches qui sont en depot distant:
       git branch -a
 fusionner toutes les branches:
      git pull --rebasse
+ a completer merci
