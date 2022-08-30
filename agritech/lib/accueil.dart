@@ -21,9 +21,9 @@ class _AccueilState extends State<Accueil> {
     List images=[
       {'maladie_atteinte':'healty','temperature':'30 C','humidite':'45 %','image':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDuE2ejpy-CjPVNdAhuIVch-8DRr20pvVwxs2pBWtl&s'},
       {'maladie_atteinte':'virus_zemoi','temperature':'37 C','humidite':'48%','image':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRQHBPjb91iTc0PNfJ25PfgjWkJo0uVdlRwoJpd2d&s'},
-      {'maladie_atteinte':'healty','temperature':'24 C','humidite':'35 %','image':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDuE2ejpy-CjPVNdAhuIVch-8DRr20pvVwxs2pBWtl&s'},
-      {'maladie_atteinte':'late_blight','temperature':'45 C','humidite':'60 %','image':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRQHBPjb91iTc0PNfJ25PfgjWkJo0uVdlRwoJpd2d&s'},
-      {'maladie_atteinte':'healty','temperature':'28 C','humidite':'39 %','image':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDuE2ejpy-CjPVNdAhuIVch-8DRr20pvVwxs2pBWtl&s'},
+      {'maladie_atteinte':'healty','temperature':'24 C','humidite':'35 %','image':'https://cdn.futura-sciences.com/buildsv6/images/wide1920/6/5/2/652a7adb1b_98148_01-intro-773.jpg'},
+      {'maladie_atteinte':'late_blight','temperature':'45 C','humidite':'60 %','image':'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg'},
+      {'maladie_atteinte':'healty','temperature':'28 C','humidite':'39 %','image':'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png'},
     ];
     List<String> _date =['2022-04-23','2022-04-24','2022-04-25','2022-05-05','2022-05-07'];
     String _dateVal ;
